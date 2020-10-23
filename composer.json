@@ -1,0 +1,17 @@
+{
+    "name": "Aswin/codeception_test",
+    "description": "Codeception Test",
+    "authors": [
+        {
+            "name": "Aswin",
+            "email": "aswinvk28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "codeception/codeception": "2.0.14"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
